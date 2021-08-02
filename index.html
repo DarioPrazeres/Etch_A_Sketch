@@ -5,8 +5,39 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Etch A Sketch</title>
-
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header>
+        <h1>Let´us PLay</h1>
+    </header>
+    <section>
+        <div class="section">
+        <div id="grid">
+
+        </div>
+
+        <div class="settings">
+            <input id="colorPicker" type="color" value="#333333" />
+            <input id="sizeSlider" type="range" value="16" min="1" max="64" orient="vertical" onchange="valor(this.value)"/>
+            <p>Value:<span id="demo"></span></p>
+        </div>
+        </div>
+
+        <div class="set" id="set">
+            <button id="colorBtn" onclick="play()">Color mode</button>
+            <button id="rainbowBtn" >Rainbow mode</button>
+            <button id="eraserBtn">Eraser</button>
+            <button id="clearBtn" onclick="clearGrid()">Clear</button>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy;DPproject</p>
+    </footer>
+    <script>
+
+    </script>
+    <script src="script.js"></script>
 </body>
 </html>
