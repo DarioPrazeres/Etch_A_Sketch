@@ -4,7 +4,11 @@ body {
     justify-content: center;
     align-items: center;
 }
-
+p{
+  position: relative;
+  top: 100px;
+  right: 0px; 
+}
 header {
     color: white;
     text-align: center;
@@ -65,7 +69,7 @@ div.set{
     justify-content: space-around;
 }
 div{
-    border:solid black 1px;
+    border:dashed black 1px;
 }
 button{
     width: 150px;
