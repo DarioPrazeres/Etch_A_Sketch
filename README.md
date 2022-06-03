@@ -3,7 +3,7 @@
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Restaurant</h1>
+<h1 align="center">Etch A Skecth</h1>
 
 
 <img src='https://img.shields.io/github/issues/DarioPrazeres/Etch_A_Sketch'> <img src='https://img.shields.io/github/forks/DarioPrazeres/Etch_A_Sketch'> <img src='https://img.shields.io/github/stars/DarioPrazeres/Etch_A_Sketch'> <img src='https://img.shields.io/github/license/DarioPrazeres/Etch_A_Sketch'> 
@@ -51,12 +51,9 @@
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [Node.js](https://nodejs.org/) 
 - [JavaScript](https://nodejs.org/) 
 - [HTML](https://html.com/) 
 - [CSS](https://html.com/css/)
-- [NPM](https://npmjs.com/)
-- [WebPack](https://webpack.js.org/)
 - A code editor as:[VS code](https://code.visualstudio.com/)
 
 ## Features
@@ -70,26 +67,22 @@ This application was created as a submission to a [The Odin Project](https://the
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Node.js](https://nodejs.org/) 
 - [JavaScript](https://nodejs.org/) 
 - [HTML](https://html.com/) 
 - [CSS](https://html.com/css/)
-- [NPM](https://npmjs.com/)
 - A code editor as:[VS code](https://code.visualstudio.com/)
 
 ## How to Work
 
 <p>For you run this project in your pc you need to install:</p>
 
-- [Node.js](https://nodejs.org/) 
-- [NPM](https://npmjs.com/)
+- [GIT](https://git-scm.com/)
 - A code editor as:[VS code](https://code.visualstudio.com/)
 
 <p>After you need to clone this repository, you need to open the terminal and choose the folder you want to clone</p>
 <p>Run this comand in terminal: <code>git@github.com:DarioPrazeres/Etch_A_Sketch.git</code></p>
 <p>After you clone with sucess</p>
-<p>Run this comand in terminal: <code>npm install</code></p>
-<p>Run this comand in terminal: <code>npx webpack --watch</code></p>
+<p>Open the directory and open index.html file</p>
 
 ## Contact
 
